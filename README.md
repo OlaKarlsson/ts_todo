@@ -1,2 +1,2 @@
 # ts_todo
- Test project to practice typexcript
+ Test project to practice typescript
